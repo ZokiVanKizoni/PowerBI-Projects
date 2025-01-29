@@ -3,3 +3,11 @@ This Power BI report showcases flight schedules to specific cities, providing an
 You can see the total number of flights, along with the number of delayed, canceled, or on-time flights. ⏱️✈️
 Additionally, users can explore the reasons behind flight cancellations and identify which days had the highest percentage of cancellations. 🛑❌
 All this information is neatly organized on a single page, with metrics separated into a dedicated table for better clarity. 📅📑
+
+Lego Set Power BI Report 🧸✨
+The Lego Set Power BI dashboard is spread across two pages.
+On the first page, you can view KPI sales results for specific Lego sets. 📊
+By using the filters, you can easily select the exact set you're looking for. 🔍
+Images in Power BI help users visualize what each set looks like. 🧩📸
+Additionally, you'll find key details about the set, such as its target gender, age range, and the number of pieces it contains. 👦👧🎂🧱
+On the second page, everything is organized into a decision tree, where users can dive deeper into the details and make more informed decisions. 🌳📈
